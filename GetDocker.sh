@@ -2,6 +2,10 @@
 
 ## Script can install incus or docker and docker compose as well as setup docker in a rootless mode. Using prompts to complete for alpine linux server.
 
+## Update and Upgrade
+doas apk update
+doas apk upgrade
+
 #Install Docker
 printf 'Install Docker (y/n)? '
 read answer1
