@@ -8,3 +8,11 @@ Added items run exclusively in docker.
 
 there for docker community edition will be required.
 
+## Now new build using docker / containers
+
+zimit 
+filebrowser
+portainer
+npm (nginx-proxy-manager)
+calibre-web-automatic
+vscodium

@@ -6,4 +6,4 @@ read -r URL
 printf "Archive File Name: " >&2
 read -r file
 
-docker run  -v ~/www/zim:/output ghcr.io/openzim/zimit zimit --url $URL --name $file
+docker run -rm -v ~/www/zim:/output ghcr.io/openzim/zimit zimit --url $URL --name $file
