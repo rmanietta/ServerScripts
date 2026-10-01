@@ -4,3 +4,8 @@
 2. GMKtec G2 Mini Server  (Aliexpress) 
 3. Storage USB 4TB Toshiba (Aliexpress)
 
+## 2026 Update
+
+**Many of these items no longer available or updated replacements now available**
+
+**_Prices are also very high due to memory costs with the AI push_**
