@@ -10,4 +10,4 @@
 
 **_Prices are also very high due to memory costs with the AI push_**
 
-_2026 Best Price Obtained @ 2-10-2026 $564.41 AUD inclusive of Shipping_
+_2026 Best Price Obtained @ 2-10-2026 **$564.41 AUD** inclusive of Shipping_
