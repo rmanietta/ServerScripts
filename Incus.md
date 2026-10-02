@@ -14,6 +14,9 @@ incus remote list
 
 ```bash
 incus remote add docker https://docker.io --protocol=oci
+
+incus remote add ghcr https://ghcr.io --protocol=oci
+
 ```
 
 recheck incus remote image archives.
