@@ -11,9 +11,9 @@ Alpine has the benefit of a small foot print in storage and in RAM utilization.
 
 Added items run exclusively in docker.
 
-there for docker community edition will be required.
+there for ~~docker community edition~~ Podman will be required.
 
-## Now new build using docker / containers
+## Now new build using ~~docker~~ Podman / containers
 
 zimit,  
 
