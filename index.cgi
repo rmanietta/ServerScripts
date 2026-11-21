@@ -42,7 +42,7 @@ EOH
 
 ls -a -1 "..${REQUEST_URI#${SCRIPT_NAME}}"| grep -v 'cgi-bin'| sort |while read line
 do
-  echo "<a href='$line' class='list-group-item list-group-item-dark'><strong>$line</strong></a>"
+  echo "<a href='../$line' class='list-group-item list-group-item-dark'><strong>$line</strong></a>"
 done
 
 cat << EOF
