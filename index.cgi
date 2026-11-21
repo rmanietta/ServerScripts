@@ -119,7 +119,7 @@ fi
     [ -e "$entry" ] || continue
     name="${entry##*/}"
     [ "$name" = "." ] || [ "$name" = ".." ] && continue
-    [ "$name" = "cgi-bin" ] && continue
+    [ "$name" = "cgi-bin" ] || [ "$name" = "httpd.conf" ] && continue
 
     if [ -d "$entry" ]; then
       printf 'D\t%s\n' "$name"
